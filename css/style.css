@@ -13,9 +13,42 @@ img{
 }
 .first{
     background-image: url('../images/img.jpg');
-    height:800px
-   
-    
-    
-   
+    height:500px
 }
+
+.beautiful{
+    color: azure;
+    text-align: center;
+    
+}
+.welcome
+{
+    color:orangered;
+
+}
+.brook
+{
+    color:green;
+}
+.second
+{
+    background-image: url('../images/img2.jpg');
+    height: 300px;
+}
+.our
+{
+    color: white;
+}
+
+.acco{
+    color:green;
+    text-align: center;
+}
+
+.mountain{
+    text-align: center;
+}
+.first1
+{
+    width:50%
+    }

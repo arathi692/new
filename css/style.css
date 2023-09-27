@@ -17,38 +17,79 @@ img{
 }
 
 .beautiful{
-    color: azure;
+    color: rgb(249, 255, 255);
     text-align: center;
     
 }
+
 .welcome
 {
     color:orangered;
+    margin-left: 300px;
 
 }
 .brook
 {
     color:green;
+    margin-left: 300px;
 }
 .second
 {
-    background-image: url('../images/img2.jpg');
-    height: 300px;
+    background:  no-repeat url('../images/img2.jpg');
+    background-size: cover;
+   
 }
 .our
 {
     color: white;
+  
 }
 
 .acco{
-    color:green;
+    color:rgb(93, 185, 93);
     text-align: center;
 }
 
 .mountain{
     text-align: center;
 }
-.first1
+.book{
+    color: green;
+    align-items: center;
+    
+    border-style:solid;
+
+    border-color: green;
+  
+}
+.dining{
+    background-image: url('../images/home.jpg');
+    background-repeat: no-repeat;
+    margin-top: 50px;
+    
+ background-size: cover;
+    
+   
+    
+   
+    
+}
+.dine{
+    color: rgb(3, 11, 19);
+    padding-left: 20px;
+
+}
+
+.bg
 {
-    width:50%
-    }
+    background-color: rgb(241, 172, 42);
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+.last{
+    background-color: rgba(53, 136, 53,0.5);
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 20px;
+
+}

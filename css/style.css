@@ -3,7 +3,7 @@
     background-repeat: no-repeat;
     background-size:cover;
     background-position: bottom center;
-    height: 500px;
+    height: 600px;
     text-align: center;
     color: aliceblue;
 
@@ -55,4 +55,7 @@ img{
     color: red;
     font-style: italic;
     padding-top: 20px;
+}
+.last{
+    height:500px
 }

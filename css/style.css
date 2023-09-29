@@ -2,14 +2,14 @@ img{
     width:100%
 }
 .bg{
-    background-image: url(../css/images/c3.webp);
+    background-image: url(../css/images/c11.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 500px;
+    min-height: 400px;
 
-
-
-
+}
+.loremm{
+    color: aliceblue;
 }
 .time{
     color: rgb(180, 180, 23);
@@ -20,10 +20,41 @@ img{
     color: white;
 }
 .order{
-    color: rgb(65, 65, 5);
+    color: rgb(241, 241, 33);
     border-style: solid;
+    background-color: transparent;
+    padding: 2%;
     
 }
 .services{
     color: rgb(230, 161, 35);
+}
+.bean{
+    border-radius: 50%;
+    width:40%
+}
+.bean1{
+    border-radius: 50%;
+    width:30% 
+}
+
+.menu{
+    color: rgb(235, 235, 59);
+    text-align: center;
+
+}
+.last{
+    background-color: black;
+    height: 500px;
+    background-size: cover;
+}
+.b1{
+    padding:4%;
+
+    
+}
+.final{
+    height:500px
+   
+   
 }

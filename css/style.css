@@ -1,0 +1,29 @@
+img{
+    width:100%
+}
+.bg{
+    background-image: url(../css/images/c3.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 500px;
+
+
+
+
+}
+.time{
+    color: rgb(180, 180, 23);
+
+}
+.coffee
+{
+    color: white;
+}
+.order{
+    color: rgb(65, 65, 5);
+    border-style: solid;
+    
+}
+.services{
+    color: rgb(230, 161, 35);
+}

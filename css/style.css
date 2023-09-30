@@ -35,7 +35,8 @@ img{
 }
 .bean1{
     border-radius: 50%;
-    width:30% 
+    width:30% ;
+   
 }
 
 .menu{
@@ -44,17 +45,16 @@ img{
 
 }
 .last{
-    background-color: black;
-    height: 500px;
-    background-size: cover;
+  
 }
+
 .b1{
     padding:4%;
-
-    
 }
 .final{
-    height:500px
-   
-   
+background-color: black;
+padding-left: 100px;
+}
+.final h2, .final p{
+    color: white;
 }

@@ -54,7 +54,28 @@ img{
 .final{
 background-color: black;
 padding-left: 100px;
+color: aliceblue;
 }
 .final h2, .final p{
     color: white;
+}
+.bi{
+    color: rgb(201, 56, 19);
+   
+}
+.thirty
+{
+    font-size: 15px;
+}
+.web{
+    min-height: 400px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@1,300&family=Italianno&display=swap');
+.font{
+    font-family: 'Regular 400';
+}
+.one{
+    border-bottom: 2px solid white;
+    
 }

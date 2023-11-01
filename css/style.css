@@ -18,13 +18,17 @@
 }
 .image{
     border-radius: 50%;
-    width:40%;
+    width:20%;
 
     
 }
 img{
     width:100%;
 }
+.meat{
+    font-size: 6px;
+}
+
 .image1{
     padding-top: 55px;
 
@@ -47,7 +51,7 @@ img{
 .book{
     padding: 5px;
     color:rgb(235, 241, 247);
-    background-color:red;
+   background-color: red;
     border:solid;
 
 }
@@ -57,5 +61,25 @@ img{
     padding-top: 20px;
 }
 .last{
-    height:500px
+    height:500px;
 }
+@media (min-width: 768px) and (max-width: 991.98px) { 
+.beef{
+    border-radius: 50%;
+    width: 30%;
+    padding-left: 20px;
+}
+   
+}
+@media (min-width: 576px) and (max-width: 767px) {
+    .w{
+    text-align: center;
+   }
+   .beef{
+    border-radius: 50%;
+    width: 30%;}
+    .table{
+        align-items: center;
+        padding-left: 225px;
+    }
+ }

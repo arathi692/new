@@ -55,6 +55,19 @@ img{
     border:solid;
 
 }
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .w{text-align: center; }
+    
+      .beef{
+       border-radius: 50%;
+       width: 30%;}
+   
+       .table{
+           align-items: center;
+           padding-left: 225px;
+       }
+    }
 .about{
     color: red;
     font-style: italic;
@@ -63,23 +76,3 @@ img{
 .last{
     height:500px;
 }
-@media (min-width: 768px) and (max-width: 991.98px) { 
-.beef{
-    border-radius: 50%;
-    width: 30%;
-    padding-left: 20px;
-}
-   
-}
-@media (min-width: 576px) and (max-width: 767px) {
-    .w{
-    text-align: center;
-   }
-   .beef{
-    border-radius: 50%;
-    width: 30%;}
-    .table{
-        align-items: center;
-        padding-left: 225px;
-    }
- }
